@@ -196,7 +196,7 @@ a {
 /* ANCHOR COLOR */
 
 .bg-primary {
-    background-color:  var(--theme1);
+    background-color: var(--theme1);
 }
 
 /* ANCHOR TYPO */
@@ -222,6 +222,10 @@ a {
     color: #ffffff;
 }
 
+.text-black {
+    color: #000000;
+}
+
 /* ANCHOR BUTTON */
 
 .btn {
@@ -235,7 +239,7 @@ a {
 
 .btn:hover {
     background-color: transparent;
-    border: 2px solid  var(--dark);
+    border: 2px solid var(--dark);
     color: var(--dark);
 }
 
@@ -271,7 +275,7 @@ a {
 }
 
 .bs-0 {
-    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
 }
 
 .overflow-h {
